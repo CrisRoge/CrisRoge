@@ -50,14 +50,6 @@ A fully responsive interface built with modern design principles, focusing on cl
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisRoge&show_icons=true&theme=radical&hide_border=true" alt="Roj's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRoge&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
