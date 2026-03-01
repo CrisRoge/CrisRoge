@@ -1,5 +1,5 @@
 # Hi I am Roj 👋
-### Computer Engineering Student @ University of San Carlos | Front-End Developer
+### Computer Engineering Student at University of San Carlos | Front-End Developer
 
 I bridge the gap between hardware architecture and modern software engineering. I specialize in building clean, accessible, and high-performance digital experiences, translating complex requirements into intuitive user interfaces.
 
