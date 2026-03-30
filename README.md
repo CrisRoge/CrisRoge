@@ -45,7 +45,7 @@ A fully responsive interface built with modern design principles, focusing on cl
 
 ## 📜 Certifications & Education
 
-- 🎓 **undergrad- BS in Computer Engineering** – University of San Carlos
+- 🎓 **undergraduate- BS in Computer Engineering** – University of San Carlos
 - 🏆 **Responsive Web Design Certification** – FreeCodeCamp (2023)
 
 ---
